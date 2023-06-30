@@ -36,5 +36,6 @@ Key part is in **tokenBoundCreation** function that creates a NEW smart contract
 
 **How to deploy it?**
 
-We are using Hardhat deploy plugin https://github.com/wighawag/hardhat-deploy so all this repo needs is you run
+We are using Hardhat deploy plugin https://github.com/wighawag/hardhat-deploy so all this repo needs is for you to run
 **npx hardhat deploy**
+Don't forget to set .env variables
