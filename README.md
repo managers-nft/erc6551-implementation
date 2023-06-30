@@ -39,3 +39,7 @@ Key part is in **tokenBoundCreation** function that creates a NEW smart contract
 We are using Hardhat deploy plugin https://github.com/wighawag/hardhat-deploy so all this repo needs is for you to run
 **npx hardhat deploy**
 Don't forget to set .env variables
+
+**Have trouble installing?**
+
+Check here https://github.com/wighawag/hardhat-deploy#installation or just use npm install --force
