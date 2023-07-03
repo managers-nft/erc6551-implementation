@@ -48,4 +48,5 @@ Check here https://github.com/wighawag/hardhat-deploy#installation or just use n
 **Smart contract details**
 
 NFT contract is deployed here https://etherscan.io/address/0x8c34E6e60731D1Ff7E26c712EA1f798F90F29Ec6#code
+
 Airdrop Starter Pack contract is deployed here https://etherscan.io/address/0xa67571f7a10c1e30eeefa42bcdd1a9548876584c#code
