@@ -11,6 +11,7 @@ module.exports = async ({ getNamedAccounts, deployments }) => {
     log("----------------------------------------------------");
 
     // Deployed address, currently all the same for all chains https://docs.tokenbound.org/contracts/deployments
+    // This are V2 contracts, check the latest ones that are used here https://docs.tokenbound.org/contracts/deployments
     const arguments = ["0x02101dfB77FDE026414827Fdc604ddAF224F0921", "0x2d25602551487c3f3354dd80d76d54383a243358"];
     const nft = await deploy("ManagersTBA", {
         from: deployer,
